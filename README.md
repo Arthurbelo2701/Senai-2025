@@ -8,4 +8,6 @@ UC-Versionamento
 
 Permóbili
 
+"Seja a sua melhor versão, não a que os outros esperam."
+
 
